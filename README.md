@@ -60,7 +60,13 @@ Employee
 * if there is an error occors when installing node modules try with  `npm install --force` or `npm install --legacy`
 * make sure you have selected hosted API url in variables.jsx 
 * web api need to run at the same time if you are using localhost api url 
-* We have used vite js with react app to get better perfomance when developing , 
+* We have used vite js with react app to get better perfomance when developing ,
+
+* Contact
+For any inquiries or feedback, please contact us at:
+
+Email: erandidahanayaka@gmail.com
+Phone: +94 775432426
 * to run the project after node module installation you have to rn `npm run dev` command.
 * Then you can run project on your browser 
 
